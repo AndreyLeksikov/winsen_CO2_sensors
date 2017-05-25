@@ -1,0 +1,26 @@
+#######################################
+# Syntax Coloring Map For
+# winsen_CO2_sensors library
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+MHZSensor	KEYWORD1
+MHZResponse KEYWORD1
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+readCO2	KEYWORD2
+getResponse	KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+#	LITERAL1
